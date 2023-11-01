@@ -175,7 +175,8 @@ public class MainActivity extends AppCompatActivity {
                     obj.getString("name"),
                     obj.getString("realname"),
                     obj.getInt("rating"),
-                    obj.getString("teamaffiliation")
+                    obj.getString("teamaffiliation"),
+                    obj.getString("desejo")
             ));
         }
 
